@@ -1,0 +1,13 @@
+#backups
+*~
+*.bak
+
+
+#ejecutables
+
+*.exe
+*.dll
+
+bin/
+
+obj/
